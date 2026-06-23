@@ -1,0 +1,195 @@
+[
+  {
+    "id": "evt-1",
+    "slug": "nations-draft-accord-triple-clean-energy-capacity-2035",
+    "headline": "Nations reach draft accord to triple clean-energy capacity by 2035",
+    "category": "World",
+    "breaking": true,
+    "status": "published",
+    "language": "en",
+    "publishedAt": "2026-06-21T08:25:00Z",
+    "readingTimeMin": 4,
+    "distinctSources": 4,
+    "featuredImageLabel": "AI-generated illustration",
+    "summary": "Delegates agreed a draft framework to triple installed clean-energy capacity within a decade, pairing binding interim targets with a new finance facility for developing economies. A ratification vote is expected before the summit closes.",
+    "body": [
+      "Negotiators emerged from an overnight session with a draft text that, if ratified, would commit signatory nations to a coordinated expansion of solar, wind and grid-storage capacity over the next ten years. The agreement attaches interim checkpoints rather than a single end-date, a structure intended to keep progress measurable year on year.",
+      "Central to the draft is a financing facility designed to channel concessional capital toward emerging economies, addressing a long-standing objection that earlier pledges placed disproportionate cost on nations least responsible for historical emissions. Several delegations described the mechanism as the breakthrough that unlocked broader consensus.",
+      "Whether the headline figure translates into deployed capacity will depend on enforcement of those annual checkpoints. Analysts cautioned that previous accords faltered not on their goals but on the absence of measurable, near-term commitments — the gap this draft attempts to close."
+    ],
+    "pullQuote": "The interim targets are what turn an ambition into an obligation.",
+    "keyFacts": [
+      "Goal: triple installed clean-energy capacity by 2035.",
+      "Structure: binding interim targets, reviewed annually.",
+      "New concessional finance facility for developing nations.",
+      "Ratification vote expected before the summit closes."
+    ],
+    "timeline": [
+      ["Day 1", "Talks open with competing draft texts on the table."],
+      ["Day 3", "Finance facility proposed, breaking the deadlock."],
+      ["Day 4", "Overnight session produces a consolidated draft."],
+      ["Today", "Draft accord released; ratification vote scheduled."]
+    ],
+    "background": "The talks follow years of incremental pledges that critics argued lacked accountability. By tying expansion to annual review, negotiators sought a framework that could survive changes in government and budget cycles across signatory states.",
+    "futureImpact": "If ratified and enforced, the accord could accelerate grid-storage investment and reshape energy-import dependencies. The finance facility, in particular, may determine how quickly developing economies can participate without absorbing disproportionate upfront cost.",
+    "sources": [
+      { "name": "UN News", "url": "news.un.org", "reliability": 0.95 },
+      { "name": "Licensed Wire", "url": "wire.example.com", "reliability": 0.9 },
+      { "name": "Government Press Office", "url": "example.gov/press", "reliability": 0.88 }
+    ],
+    "relatedTopics": ["Clean energy", "Climate finance", "Summit", "Grid storage", "Developing economies"],
+    "scores": { "originality": 0.96, "sourceReliability": 0.93, "factCheck": 1.0, "readability": 0.97, "confidence": 0.96, "flagged": [] },
+    "signals": { "breaking": 0.69, "trending": 0.64, "virality": 0.53 }
+  },
+  {
+    "id": "evt-4",
+    "slug": "frontier-ai-model-clears-safety-evaluation",
+    "headline": "Frontier AI model clears independent safety evaluation",
+    "category": "Technology",
+    "breaking": true,
+    "status": "published",
+    "language": "en",
+    "publishedAt": "2026-06-21T09:10:00Z",
+    "readingTimeMin": 3,
+    "distinctSources": 3,
+    "featuredImageLabel": "AI-generated illustration",
+    "summary": "An independent evaluation reported that a new frontier AI model passed a battery of safety tests covering misuse resistance and reliability, according to three sources. The full methodology has been published for scrutiny.",
+    "body": [
+      "An independent body reported that a newly released frontier model cleared a structured safety evaluation, with results spanning misuse-resistance and reliability benchmarks.",
+      "The evaluators published their methodology alongside the results, inviting external replication — a move researchers said sets a useful precedent for transparency in model assessment."
+    ],
+    "pullQuote": "Publishing the methodology matters as much as the result.",
+    "keyFacts": [
+      "Model passed an independent safety evaluation.",
+      "Tests covered misuse resistance and reliability.",
+      "Full methodology published for scrutiny."
+    ],
+    "timeline": [
+      ["08:30", "Evaluation results released."],
+      ["09:10", "Methodology published for replication."]
+    ],
+    "background": "Independent evaluation of frontier models has become a focal point as deployment accelerates, with calls for standardised, repeatable testing.",
+    "futureImpact": "Published methodology could push the field toward comparable, reproducible safety benchmarks rather than vendor-reported claims.",
+    "sources": [
+      { "name": "Tech Wire", "url": "tech.example.com", "reliability": 0.9 },
+      { "name": "Research Org", "url": "research.example.org", "reliability": 0.92 },
+      { "name": "Licensed Wire", "url": "wire.example.com", "reliability": 0.9 }
+    ],
+    "relatedTopics": ["AI", "Safety", "Evaluation", "Research"],
+    "scores": { "originality": 0.94, "sourceReliability": 0.9, "factCheck": 0.93, "readability": 0.95, "confidence": 0.92, "flagged": [] },
+    "signals": { "breaking": 0.72, "trending": 0.81, "virality": 0.66 }
+  },
+  {
+    "id": "evt-6",
+    "slug": "central-bank-holds-rates-markets-steady",
+    "headline": "Markets steady as central bank holds rates",
+    "category": "Markets",
+    "breaking": false,
+    "status": "published",
+    "language": "en",
+    "publishedAt": "2026-06-21T05:30:00Z",
+    "readingTimeMin": 2,
+    "distinctSources": 5,
+    "featuredImageLabel": "AI-generated illustration",
+    "summary": "A central bank held its benchmark rate steady, citing easing inflation, and markets responded calmly. The decision was widely anticipated across multiple sources.",
+    "body": [
+      "A central bank kept its benchmark interest rate unchanged, pointing to moderating inflation as justification for a pause.",
+      "Equity and bond markets showed limited reaction, consistent with the decision having been widely expected by analysts."
+    ],
+    "pullQuote": "A pause, not a pivot, was the message markets heard.",
+    "keyFacts": [
+      "Benchmark rate held steady.",
+      "Decision cited easing inflation.",
+      "Muted market reaction."
+    ],
+    "timeline": [
+      ["05:00", "Decision announced."],
+      ["05:30", "Markets respond calmly."]
+    ],
+    "background": "The hold follows a sequence of moves aimed at bringing inflation back toward target without stalling growth.",
+    "futureImpact": "Attention turns to forward guidance and the data that will shape the next decision.",
+    "sources": [
+      { "name": "Markets Wire", "url": "markets.example.com", "reliability": 0.93 },
+      { "name": "Central Bank Release", "url": "centralbank.example", "reliability": 0.97 },
+      { "name": "Licensed Wire", "url": "wire.example.com", "reliability": 0.9 }
+    ],
+    "relatedTopics": ["Central bank", "Rates", "Inflation", "Markets"],
+    "scores": { "originality": 0.97, "sourceReliability": 0.95, "factCheck": 0.98, "readability": 0.96, "confidence": 0.97, "flagged": [] },
+    "signals": { "breaking": 0.5, "trending": 0.6, "virality": 0.4 }
+  },
+  {
+    "id": "evt-7",
+    "slug": "title-decided-last-minute-goal-record-final",
+    "headline": "Title decided by last-minute goal in record final",
+    "category": "Sport",
+    "breaking": true,
+    "status": "published",
+    "language": "en",
+    "publishedAt": "2026-06-21T04:15:00Z",
+    "readingTimeMin": 2,
+    "distinctSources": 4,
+    "featuredImageLabel": "AI-generated illustration",
+    "summary": "A championship was decided by a goal in the final minute of a record-breaking final, confirmed across four sources.",
+    "body": [
+      "A last-minute goal settled the championship in a final that drew record viewership.",
+      "The result caps a tournament marked by several upsets in the knockout rounds."
+    ],
+    "pullQuote": "One moment, and a tournament of upsets had its answer.",
+    "keyFacts": [
+      "Title decided by a final-minute goal.",
+      "Record-breaking viewership.",
+      "Tournament marked by upsets."
+    ],
+    "timeline": [
+      ["Full-time", "Decisive goal scored."],
+      ["04:15", "Result confirmed across sources."]
+    ],
+    "background": "The final concluded a tournament that repeatedly defied seedings.",
+    "futureImpact": "Attention shifts to squad changes and qualification for the next cycle.",
+    "sources": [
+      { "name": "Sports Wire", "url": "sports.example.com", "reliability": 0.92 },
+      { "name": "League Release", "url": "league.example", "reliability": 0.94 },
+      { "name": "Licensed Wire", "url": "wire.example.com", "reliability": 0.9 }
+    ],
+    "relatedTopics": ["Final", "Championship", "Sport"],
+    "scores": { "originality": 0.95, "sourceReliability": 0.92, "factCheck": 0.96, "readability": 0.97, "confidence": 0.95, "flagged": [] },
+    "signals": { "breaking": 0.78, "trending": 0.88, "virality": 0.83 }
+  },
+  {
+    "id": "evt-2",
+    "slug": "regional-bloc-trade-corridor-three-economies",
+    "headline": "Regional bloc signs trade corridor linking three economies",
+    "category": "World",
+    "breaking": false,
+    "status": "needs_review",
+    "language": "en",
+    "publishedAt": "2026-06-21T07:55:00Z",
+    "readingTimeMin": 2,
+    "distinctSources": 2,
+    "featuredImageLabel": "AI-generated illustration",
+    "summary": "A regional bloc agreed a new trade corridor connecting three economies, with implementation slated to begin next year. One delegate's claim that the deal could double regional trade remains uncorroborated.",
+    "body": [
+      "The agreement establishes a new trade corridor connecting three regional economies, with officials saying implementation begins next year.",
+      "The corridor is expected to streamline customs and logistics across the member states, though detailed terms have not been published."
+    ],
+    "pullQuote": "Terms remain unpublished, and one headline figure is unverified.",
+    "keyFacts": [
+      "New trade corridor connecting three regional economies.",
+      "Implementation begins next year.",
+      "Detailed terms not yet published."
+    ],
+    "timeline": [
+      ["07:40", "First report (UN News)."],
+      ["07:55", "Second report (Licensed Wire)."]
+    ],
+    "background": "The corridor extends a series of regional integration efforts among the member states.",
+    "futureImpact": "Published terms will determine the corridor's real effect on cross-border trade volumes.",
+    "sources": [
+      { "name": "UN News", "url": "news.un.org", "reliability": 0.95 },
+      { "name": "Licensed Wire", "url": "wire.example.com", "reliability": 0.9 }
+    ],
+    "relatedTopics": ["Trade", "Economy", "Regional"],
+    "scores": { "originality": 0.8, "sourceReliability": 0.93, "factCheck": 1.0, "readability": 0.94, "confidence": 0.89, "flagged": ["One delegate claimed the deal could double regional trade — a figure no second source confirms."] },
+    "signals": { "breaking": 0.68, "trending": 0.63, "virality": 0.41 }
+  }
+]
