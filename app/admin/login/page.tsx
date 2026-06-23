@@ -37,9 +37,9 @@ export default function Login() {
             onChange={(e) => setPw(e.target.value)}
             autoFocus
             style={{
-              width: "100%", marginTop: 8, padding: "12px 14px", borderRadius: 12,
-              background: "rgba(255,255,255,.04)", border: "1px solid var(--line2)",
-              color: "var(--paper)", fontFamily: "var(--display)", fontSize: 14, outline: "none",
+              width: "100%", marginTop: 8, padding: "13px 14px", borderRadius: 0,
+              background: "#fff", border: "1px solid var(--line2)",
+              color: "var(--paper)", fontFamily: "var(--serif)", fontSize: 15, outline: "none",
             }}
           />
           {err && <div style={{ color: "var(--magenta)", fontSize: 13, marginTop: 12 }}>{err}</div>}

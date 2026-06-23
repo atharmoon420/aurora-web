@@ -1,9 +1,6 @@
 import Link from "next/link";
-import dynamic from "next/dynamic";
 import Nav from "@/components/Nav";
 import { getPublished, fmtDate } from "@/lib/articles";
-
-const Hero3D = dynamic(() => import("@/components/Hero3D"), { ssr: false });
 
 export default function Home() {
   const articles = getPublished();
@@ -14,18 +11,18 @@ export default function Home() {
         <Nav />
 
         <section className="hero">
-          <Hero3D />
-          <div className="in">
-            <div className="eyebrow">The autonomous newsroom · always on</div>
-            <h1>News that <span className="g">writes itself</span>, verified before you wake.</h1>
+          <div className="hero-media" />
+          <div className="hero-inner">
+            <div className="eyebrow">The Autonomous Newsroom · Always On</div>
+            <h1>News, <span className="g">verified</span><br />before you wake.</h1>
             <p className="lead">
               AURORA watches thousands of trusted feeds in real time — detecting, cross-checking and
               de-duplicating world events, then publishing fully original reporting. Every claim scored.
-              Every source shown. Every image labelled.
+              Every source shown.
             </p>
             <div className="cta">
               <Link href="#latest" className="btn">Read the wire</Link>
-              <Link href="/admin/review" className="btn ghost">Open review console</Link>
+              <Link href="/admin/review" className="link-underline">Review console</Link>
             </div>
           </div>
         </section>
